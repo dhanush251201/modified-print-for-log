@@ -1,2 +1,8 @@
 __pycache__
 app.py
+
+base_BetterPrintLogger/BetterPrintLogger.egg-info
+base_BetterPrintLogger/BetterPrintLogger/__init__.py
+base_BetterPrintLogger/build
+base_BetterPrintLogger/dist
+base_BetterPrintLogger/setup.py
